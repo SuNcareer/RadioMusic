@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RadioPlayer</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="station">Station</string>
+    <string name="history">History</string>
+    <string name="title">Title:</string>
+    <string name="artist">Artist:</string>
+    <string name="album">Album:</string>
+    <string name="permission_necessary">Permission Necessary</string>
+    <string name="storage_permission_is_necessary_to_wrote_event">Permissions are Necessary To Wrote Event</string>
+    <string name="em_no_network">No Network Available</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+
+</resources>
