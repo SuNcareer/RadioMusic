@@ -1,8 +1,9 @@
 # RadioMusic
 1) Struggles faced
-=> Have a time issue to give behind this test, As test is too long and with many small features and also pass value between 3 screen etc..
-=> Not faced any problem, just Radio is starting here, after few seconds or min. So,taking little time. Need to check in detail to handle properly but not get much time.
-=> In daily current office work and social life its hard to get time. Still I have implemented all possible mentioned features.
+=> Test is too long and with many small features and I can not able to get time because of daily current job and social life. Still I have implemented all possible mentioned features.
+
+=> Not faced any problem during development, Just here, I have observed Radio is starting after few seconds or min.
+
 
 Features
 =========
@@ -20,11 +21,11 @@ Features
 
 Application have below architecture in development
 ==========================
-MVVM Structure
-View Binding
-Room Database
-Retrofit + OkHttp for API call
-InterstitialAd
-MediaPlayer for radio url
-TabHost & ViewPager for add Tabs and swapping for change view
-BaseActivity and BaseFragment along with child DashboardActivity and two sub fragment
+1. MVVM Structure
+2. View Binding
+3. Room Database
+4. Retrofit + OkHttp for API call
+5. InterstitialAd
+6. MediaPlayer for radio url
+7. TabHost & ViewPager for add Tabs and swapping for change view
+8. BaseActivity and BaseFragment along with child DashboardActivity and two sub fragment
