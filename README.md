@@ -1,6 +1,7 @@
 # RadioMusic
 1) Struggles faced
-=> Test is too long and with many small features and I can not able to get time because of daily current job and social life. Still I have implemented all possible mentioned features.
+
+=> Test is too long along with many small features and I can not able to get time because of daily current job and social life. Still I have implemented all possible mentioned features.
 
 => Not faced any problem during development, Just here, I have observed Radio is starting after few seconds or min.
 
